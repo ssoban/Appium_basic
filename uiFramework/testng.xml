@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Standby">
+ 
+  <test name="INSATLL_UPDTATE_OPEN_ALLOW_PERMISSION">
+    <classes>
+      <class name="com.uiFramework.TC_03_Set_Permisssion"/>
+       <class name="com.uiFramework.TC_04_Open_app_via_playstore"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
